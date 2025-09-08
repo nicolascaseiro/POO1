@@ -6,7 +6,7 @@ package javaapplication8;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 public class JavaApplication8 {
 

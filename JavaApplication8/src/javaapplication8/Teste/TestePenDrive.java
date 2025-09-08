@@ -6,7 +6,7 @@ package javaapplication8.Teste;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 import javaapplication8.PenDrive.PenDrive;
 import java.util.Scanner;

@@ -6,7 +6,7 @@ package javaapplication9;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 import Estaticos.Produto;
 import Estaticos.HerdaProduto;

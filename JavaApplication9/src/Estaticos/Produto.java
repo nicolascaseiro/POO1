@@ -6,7 +6,7 @@ package Estaticos;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 
 public class Produto {
