@@ -11,6 +11,7 @@ package javaapplication1;
 import java.util.Scanner;
 
 public class Quadrilatero {
+
     private double largura;
     private double altura;
     private double profundidade;
