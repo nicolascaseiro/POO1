@@ -6,7 +6,7 @@ package javaapplication10.Inferfaces;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 public class Humano {
 

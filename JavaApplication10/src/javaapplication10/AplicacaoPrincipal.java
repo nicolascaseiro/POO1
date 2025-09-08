@@ -6,7 +6,7 @@ package javaapplication10;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 public class AplicacaoPrincipal {
 

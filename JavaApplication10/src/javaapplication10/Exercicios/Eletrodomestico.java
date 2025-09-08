@@ -9,7 +9,7 @@ import javax.lang.model.SourceVersion;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 public class Eletrodomestico {
 

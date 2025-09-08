@@ -8,7 +8,7 @@ import javaapplication10.Inferfaces.Triathlon;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 public interface Ciclista extends Triathlon {
 

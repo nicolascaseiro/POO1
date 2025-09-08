@@ -6,7 +6,7 @@ package javaapplication10.Inferfaces;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 public class Triatleta extends Humano implements Nadar, Correr, Ciclista {
     public Triatleta(String nome, double peso, double altura) {
