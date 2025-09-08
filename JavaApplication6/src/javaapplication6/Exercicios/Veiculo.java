@@ -6,7 +6,7 @@ package javaapplication6.Exercicios;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 public class Veiculo {
     protected int capacidadeTanque;

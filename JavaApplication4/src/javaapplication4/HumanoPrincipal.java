@@ -20,9 +20,9 @@ public class HumanoPrincipal {
         h1.setAltura(1.76);
 
         System.out.println("Nome: " + h1.getNome()
-                + " Sexo: " + h1.getSexo()
-                + " Idade: " + h1.getIdade()
-                + " Peso: " + h1.getPeso()
-                + " Altura: " + h1.getAltura());
+                + "\nSexo: " + h1.getSexo()
+                + "\nIdade: " + h1.getIdade()
+                + "\nPeso: " + h1.getPeso()
+                + "\nAltura: " + h1.getAltura());
     }
 }

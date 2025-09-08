@@ -6,7 +6,7 @@ package javaapplication4.Exercicios;
 
 /**
  *
- * @author Nicolas Caseio de Abreu
+ * @author Nicolas Caseiro de Abreu
  */
 
 //Exercício 2 (continuação)
